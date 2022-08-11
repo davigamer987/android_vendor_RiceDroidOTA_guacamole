@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "Davi",
+        "oem": "OnePlus",
+        "device": "Oneplus 7 pro",
+        "filename": "riceDroid-12.1-2022081017-guacamole-v4.5-PIXEL.zip",
+        "download": "https://github.com/davigamer987/releases/releases/download/rice-ota-test-4.5/riceDroid-12.1-2022081021-guacamole-v4.5-PIXEL.zip",
+        "timestamp": 1660165052,
+        "md5": "8e56b2e07bb21b30ac819d04bf05f497",
+        "sha256": "df2c9802a1a260b88e53d8ff74f31a74133d959b590657694f2ce2c48598422e",
+        "size": 1492551288,
+        "version": "4.5",
+        "buildtype": "Alpha",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/cringeromssupport",
+        "dt": "https://github.com/davigamer987/android_device_oneplus_guacamole_ricedroid",
+        "common-dt": "https://github.com/davigamer987/sm8150-common_rice",
+        "kernel": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8150"
+    }
+  ]
+}
